@@ -1,4 +1,6 @@
-# Projects
+# BSc Projects
+
+These projects were made duing my bachelor degree days.
 
 Cowboy Survival, Poll, Jewelry Web App were all made with Endrit Sheholli and he has the reserved rights for these projects too.
 
